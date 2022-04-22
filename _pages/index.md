@@ -21,10 +21,9 @@ MARVELOUSが初めて作った音ゲー
 
 # [あなたがハッピーになるサイト](https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg)
 
-**太字**
+**エコ狩りでしかキルとれません**
 
-> 引用
->> 多重引用
+> [Shun_1v](https://mobile.twitter.com/shun_1ce/status/1508152957413789696)
 
 
 - 箇条書きリスト
