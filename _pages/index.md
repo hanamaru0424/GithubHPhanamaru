@@ -35,10 +35,5 @@ MARVELOUSが初めて作った音ゲー
    1. ネスト
       1. さらにネスト
 
-  
-| 列1  | 列2  |
-|-----|-----|
-| 内容  | 内容  |
-| 内容  | 内容  |
 
-![image](/GithubHPhanamaru/assets/images/PXL_20210912_130126266.PORTRAIT.jpg)
+![image](/https://github.com/hanamaru0424/GithubHPhanamaru/blob/main/assets/images/5VrJ-VTA_400x400.jpeg?raw=true)
