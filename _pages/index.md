@@ -47,4 +47,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GithubHPhanamaru/blob/main/assets/images/PXL_20210912_130126266.PORTRAIT.jpg)
+![image](/GithubHPhanamaru/assets/images/PXL_20210912_130126266.PORTRAIT.jpg)
