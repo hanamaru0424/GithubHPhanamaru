@@ -24,7 +24,7 @@ permalink: /
 改行は、行末に半角スペースを2個いれる  
 次の行
 
-[Please Subscribe](https://www.twitch.tv/shun_1v)
+[あなたがハッピーになるサイト](https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg)
 
 **太字**
 
