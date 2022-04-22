@@ -19,7 +19,7 @@ permalink: /
 MARVELOUSが初めて作った音ゲー
 
 
-[あなたがハッピーになるサイト](https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg)
+# [あなたがハッピーになるサイト](https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg)
 
 **太字**
 
