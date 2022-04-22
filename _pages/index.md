@@ -1,10 +1,10 @@
 ---
-title: "ここにページのタイトル"
+title: "初めてのホームページ"
 author: default
 permalink: /
 ---
 
-# 見出し
+# About n00berXD
 
 ここに内容を記述する！
 
@@ -24,7 +24,7 @@ permalink: /
 改行は、行末に半角スペースを2個いれる  
 次の行
 
-[リンク](https://www.google.co.jp/)
+[Please Subscribe](https://www.twitch.tv/shun_1v)
 
 **太字**
 
