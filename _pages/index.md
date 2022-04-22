@@ -1,28 +1,23 @@
 ---
-title: "初めてのホームページ"
+title: "AC音ゲー完全攻略サイト"
 author: default
 permalink: /
 ---
 
-# About n00berXD
+# AC音ゲーがうまくなるために
 
-ここに内容を記述する！
+ゲームセンターの音ゲー。上手くなりたくありませんか?
 
 
 
 ---
 
-以下テンプレート
 
-# 見出し1
-## 見出し2
-### 見出し3
-#### 見出し4
-##### 見出し5
-###### 見出し6
+## [クロノサークル](https://chrono-circle.com/)  
+韓国ANDAMIROがラウンドワンと共同で作成した音ゲー
+## [WACCA](https://wacca.marv.jp/)
+MARVELOUSが初めて作った音ゲー
 
-改行は、行末に半角スペースを2個いれる  
-次の行
 
 [あなたがハッピーになるサイト](https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg)
 
