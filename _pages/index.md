@@ -25,14 +25,9 @@ MARVELOUSが初めて作った音ゲー
 > [Shun_1v](https://mobile.twitter.com/shun_1ce/status/1508152957413789696)
 
 
-- 箇条書きリスト
-  - ネスト
-    - さらにネスト
-
-
-1. 番号付きリスト
-   1. ネスト
-      1. さらにネスト
+- 彼は配信者です
+  - HP作成者=彼ではありません
+    - 彼は味方批判しかしません
 
 
 ![image](https://github.com/hanamaru0424/GithubHPhanamaru/blob/main/assets/images/5VrJ-VTA_400x400.jpeg)
